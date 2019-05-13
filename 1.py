@@ -1,1 +1,2 @@
-num1 = 10
+num1 = 10 ----manager
+num2 = 20 ----zs
